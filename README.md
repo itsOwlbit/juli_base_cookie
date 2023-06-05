@@ -6,6 +6,9 @@ Juli's base cookiecutter-django project.
 
 This project was created to learn about creating a project in cookiecutter-django with docker.  The capstone project I am working on with a team is to modernize the STOQS development environment by porting the existing code base into a new project, a dockerized cookiecutter-django web application.  Since I have not worked with django, cookiecutter, or docker, the first milestone was to learn the development stack.  This repo documents what I have learned in my first milestone.
 
+---
+
+
 ## Have the following installed:
 * Python (I had 3.9.13 installed)
 * Cookiecutter (this is not the cookiecutter-django)
@@ -15,6 +18,9 @@ This project was created to learn about creating a project in cookiecutter-djang
       ```
       
 * Docker Desktop
+
+---
+
 
 ## Instructions for running this cookie project on local machine
 
@@ -230,9 +236,10 @@ This project was created to learn about creating a project in cookiecutter-djang
 
 ---
 
+
 ## After project has been created, each time you want to run the project do the following:
 
-1. You can either use terminal or VSC's terminal.  Start virtual environment.
+1. You can either use terminal or VSC's terminal.  Start virtual environment.  Also, start Docker Desktop.
 
 2. Build project:
 
