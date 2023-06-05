@@ -11,11 +11,9 @@ This project was created to learn about creating a project in cookiecutter-djang
 
 ## Have the following installed:
 * Python (I had 3.9.13 installed)
-* Cookiecutter (this is not the cookiecutter-django)
+* Cookiecutter (this needed for cookiecutter-django)
 
-      ```
       pip install cookiecutter
-      ```
       
 * Docker Desktop
 
@@ -80,6 +78,7 @@ This project was created to learn about creating a project in cookiecutter-djang
       code .
       ```
 
+
 ### The following are now in VSC terminal (or stay in previous terminal)
 
 10. Launch Docker Desktop or equivalent for your system.
@@ -108,6 +107,7 @@ This project was created to learn about creating a project in cookiecutter-djang
       ```
 
 14. You should now see the project page.
+
 
 ### To quit, do the following
 
