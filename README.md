@@ -8,62 +8,42 @@ This project was created to learn about creating a project in cookiecutter-djang
 
 ---
 
-
 ## Have the following installed:
 * Python (I had 3.9.13 installed)
 * Docker Desktop
 
 ---
 
-
 ## Instructions for running this cookie project on local machine
 
 ### The following are done in terminal
 
-1. Create directory to download this repo:
+1. Clone repo (make sure your ssh is already set up):
 
       ```
-      mkdir capstone_project1
+      git clone git@github.com:OtterBots/capstone_phase1.git
       ```
 
-2. Go into new directory:
+2. Go into the cookie project directory:
 
       ```
-      cd capstone_project1
+      cd capstone_phase1/j_cookie
       ```
 
-3. Initialize git:
-
-      ```
-      git init
-      ```
-
-4. Pull repo (make sure your ssh is already set up):
-
-      ```
-      git clone git@github.com:itsOwlbit/juli_base_cookie.git
-      ```
-
-5. Go into the cookie project directory:
-
-      ```
-      cd j_cookie
-      ```
-
-6. Launch Docker Desktop or equivalent for your system.
-7. Build project:
+3. Launch Docker Desktop.  (Follow their instructions for setting up on your specific machine.)
+4. Build project:
 
       ```
       docker-compose -f local.yml build
       ```
 
-8. Run project:
+5. Run project:
 
       ```
       docker-compose -f local.yml up
       ```
 
-9. Open browswer and enter the following url:
+6. Open browswer and enter the following url:
 
       ```
       http://127.0.0.1:8000
@@ -75,14 +55,13 @@ This project was created to learn about creating a project in cookiecutter-djang
       localhost:8000
       ```
 
-10. You should now see the project page.
-
+7. You should now see the project page.
 
 ### To quit, do the following
 
-11. Ctrl + C in the terminal that is running docker-compose (from step 7-8)
+8. Ctrl + C in the terminal that is running docker-compose (from step 4-5)
       
-12. You are now all done.
+9. You are now all done.
 
 ---
 
