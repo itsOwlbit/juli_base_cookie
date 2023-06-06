@@ -45,7 +45,7 @@ This project was created to learn about creating a project in cookiecutter-djang
 4. Pull repo (make sure your ssh is already set up):
 
       ```
-      git pull git@github.com:OtterBots/capstone_phase1.git
+      git pull git@github.com:itsOwlbit/juli_base_cookie.git
       ```
 
 5. Go into the cookie project directory:
@@ -54,47 +54,20 @@ This project was created to learn about creating a project in cookiecutter-djang
       cd j_cookie
       ```
 
-6. Create virtual environment:
-
-      ```
-      virtualenv cEnv
-      ```
-
-7. Activate the virtual environment:
-
-      ```
-      source cEnv/bin/activate
-      ```
-
-8. Install project requirements:
-
-      ```
-      pip install -r requirements/local.txt
-      ```
-
-9. Launch VSC from terminal (or just start the program):
-
-      ```
-      code .
-      ```
-
-
-### The following are now in VSC terminal (or stay in previous terminal)
-
-10. Launch Docker Desktop or equivalent for your system.
-11. Build project:
+6. Launch Docker Desktop or equivalent for your system.
+7. Build project:
 
       ```
       docker-compose -f local.yml build
       ```
 
-12. Run project:
+8. Run project:
 
       ```
       docker-compose -f local.yml up
       ```
 
-13. Open browswer and enter the following url:
+9. Open browswer and enter the following url:
 
       ```
       http://127.0.0.1:8000
@@ -106,7 +79,7 @@ This project was created to learn about creating a project in cookiecutter-djang
       localhost:8000
       ```
 
-14. You should now see the project page.
+10. You should now see the project page.
 
 
 ### To quit, do the following
