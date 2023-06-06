@@ -45,7 +45,7 @@ This project was created to learn about creating a project in cookiecutter-djang
 4. Pull repo (make sure your ssh is already set up):
 
       ```
-      git pull git@github.com:itsOwlbit/juli_base_cookie.git
+      git clone git@github.com:itsOwlbit/juli_base_cookie.git
       ```
 
 5. Go into the cookie project directory:
