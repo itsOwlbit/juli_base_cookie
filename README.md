@@ -27,7 +27,7 @@ This project was created to learn about creating a project in cookiecutter-djang
 2. Go into the cookie project directory:
 
       ```
-      cd capstone_phase1/j_cookie
+      cd juli_base_cookie/j_cookie
       ```
 
 3. Launch Docker Desktop.  (Follow their instructions for setting up on your specific machine.)
