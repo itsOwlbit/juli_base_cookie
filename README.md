@@ -21,7 +21,7 @@ This project was created to learn about creating a project in cookiecutter-djang
 1. Clone repo (make sure your ssh is already set up):
 
       ```
-      git clone git@github.com:OtterBots/capstone_phase1.git
+      git clone git@github.com:itsOwlbit/juli_base_cookie.git
       ```
 
 2. Go into the cookie project directory:
