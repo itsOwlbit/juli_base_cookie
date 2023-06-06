@@ -84,14 +84,9 @@ This project was created to learn about creating a project in cookiecutter-djang
 
 ### To quit, do the following
 
-15. Ctrl + C in the terminal that is running docker-compose (from step 11-12)
-16. Deactivate the virtual environment:
-
-      ```
-      deactivate
-      ```
+11. Ctrl + C in the terminal that is running docker-compose (from step 11-12)
       
-17. You are now all done.
+12. You are now all done.
 
 ---
 
