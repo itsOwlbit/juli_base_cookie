@@ -11,10 +11,6 @@ This project was created to learn about creating a project in cookiecutter-djang
 
 ## Have the following installed:
 * Python (I had 3.9.13 installed)
-* Cookiecutter (this needed for cookiecutter-django)
-
-      pip install cookiecutter
-      
 * Docker Desktop
 
 ---
