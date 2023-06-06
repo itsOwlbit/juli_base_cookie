@@ -84,7 +84,7 @@ This project was created to learn about creating a project in cookiecutter-djang
 
 ### To quit, do the following
 
-11. Ctrl + C in the terminal that is running docker-compose (from step 11-12)
+11. Ctrl + C in the terminal that is running docker-compose (from step 7-8)
       
 12. You are now all done.
 
